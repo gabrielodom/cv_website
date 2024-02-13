@@ -1,0 +1,8 @@
+- source: odom_cv_20221114.qmd
+  quarto-pub:
+    - id: 38d21987-0ad2-45c2-a075-7016f7d08205
+      url: 'https://quartopub.com/sites/gabriel/cv'
+- source: odom_cv_20230712.qmd
+  quarto-pub:
+    - id: 0dd5fc96-3dec-42db-9809-c831774f0b16
+      url: 'https://quartopub.com/sites/gabriel/cv'

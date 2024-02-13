@@ -1,0 +1,349 @@
+---
+title: "Gabriel J. Odom, PhD, ThD"
+format:
+  html:
+    css: media/davewhipp-print.css
+---
+
+<p style="text-align: center;">
+Data scientist. Statistician. Avid learner. Ordained priest. <gabriel.j.odom@gmail.com> | <a href="https://github.com/gabrielodom/" target="_blank">https://github.com/gabrielodom</a>
+</p>
+
+
+
+
+*******************************************************************************
+
+## Profile
+
+I am an assistant professor of biostatistics at Florida International University's [Stempel College of Public Health](https://stempel.fiu.edu/). I create open-source software packages and databases to facilitate public health research, and I produce and analyze computational statistics methods for genetics and genomics research. I enjoy mentoring my doctoral students, and I show them the simple joys of writing beautiful code. I want my passion for reproducible data science to spur my students to become better scientists and better people. Overall, I strive to become a better steward of my discipline.
+
+
+### Interests
+R/Bioconductor Package Development, Statistical Genetics/Genomics, Reproducibility in Data Science, Public Health Surveillance and Informatics, High-Dimensional Statistics, Computational Statistics, Matrix Theory, Bayesian Statistics, Spatial/Time Series, Ethics in Public Health and Medical Informatics
+
+### Application Areas
+Substance use disorders, public health data reporting, cancers, Alzheimer's and neuro-degenerative diseases and related neurotoxicology
+
+
+
+## Employment
+`08/2019 - `
+__Assistant Professor__, Department of Biostatistics  
+Stempel College of Public Health  
+Florida International University, Miami, FL   
+40 hours / week  
+Salary: \$102,514.05 / 9 months; \$136,685.40 / 12 months  
+
+</br>
+
+`08/2017 - 08/2019`
+__Postdoctoral Associate__, Division of Biostatistics,  
+Department of Public Health Sciences  
+University of Miami's Miller School of Medicine, Miami, FL    
+40 hours / week  
+Salary: \$60,000 / year
+
+</br>
+
+`08/2013 - 08/2017`
+__Graduate Assistant__, Department of Statistical Sciences,  
+Baylor University, Waco, TX  
+20 hours / week  
+Salary: \$24,000 / year
+
+
+
+## Research  
+**In Progress:**  
+
+- *Towards a framework for algorithmic bias and fairness in predicting treatment outcome for opioid use disorder* (NIH AIM-AHEAD 1OT2OD032581-02-267). Co-PI. 09/2023 - 09/2025. Contact PI: Laura Brandt, City College of New York.
+- *FIU RCMI: Research Capacity Core* (NIMHD 2U54MD012393-06 8588). Data Scientist. 08/2022 - 07/2027. PI: Zoran Bursac, Florida International University.
+- *Addressing community-level influences of HIV and COVID-19 disparities among people with HIV* (NIMHD 2U54MD012393-06 8587). Lead Data Scientist. 08/2022 - 07/2027. PI: Diana Sheehan, Florida International University.
+- *Individual Level Predictive Modeling of Opioid Use Disorder Treatment Response using Aggregate CTN Datasets* (NIDA UG1DA013035-17). Data scientist. 10/2019 - 06/2023. PI: Dan Feaster, University of Miami
+
+**Completed:**  
+
+- *A Software Tool to Standardize Outcomes and Measure Algorithmic Racial Bias in Opioid Clinical Trials* (NIMHD FIU-RCMI Pilot AWD000000009108). 07/2021 - 06/2022. PI: Gabriel Odom
+- *Building blood based DNA methylation signatures for AD that are reflective of CNS changes* (NIA 1RF1AG061127-01). Subcontract PI. 09/2019 - 07/2022. PI: Lily Wang, University of Miami
+- *New Statistical Strategies for Comprehensive Analysis of Epigenomewide Methylation Data*: NIH-funded post-doc research. PI: Lily Wang, University of Miami
+- *iPGDAC, An Integrative Proteogenomic Data Analysis Center for CPTAC*: NIH-funded post-doc research. PI: Bing Zhang, Baylor College of Medicine; Site PI and Supervisor: Xi Steven Chen, University of Miami
+- *Self-Correcting Energy-Efficient Water Reclamation Systems for Tailored Water Reuse at Decentralized Facilities*: NSF-funded PhD research. PI: Tzahi Cath, Colorado School of Mines; Co-PI and Supervisor: Amanda S. Hering, Baylor University
+
+
+
+## Education
+
+`2023`
+__Graduate Certificate, Innovations for Substance Use Disorders__
+
+- Johns Hopkins University, Carey Business School
+- "Innovation Pitch Competition" Finalist
+
+`2019`
+__Postdoctoral Associate, Biostatistics__
+
+- The University of Miami, Miller School of Medicine
+- Mentors: Xi Steven Chen and Lily Wang
+
+`2017`
+__PhD, Statistical Science__
+
+- Baylor University
+- Dissertation: "Three Examples of Linear Dimension Reduction"
+- Advisors: Dean M. Young and Amanda S. Hering
+- Honors: Conyer's Doctoral Honors Fellow; TeaCHE Capstone in Higher Education
+
+`2014`
+__ThD, Sacred Theology__
+
+- International Miracle Institute
+- Dissertation: "An Exploration of Biblical Perspectives as Applied to Personal, Business, and National Economics"
+- Advisor: Christian M. E. Harfouche
+- Honors: Vested as Ordained Presbyter
+
+`2011`
+__BA, Economics; BS, Mathematics__
+
+- The University of West Florida
+- Thesis: "An Economic Approach to University Campus Parking Shortages"
+- Advisor: Morris L. Marx
+- Honors: *Summa Cum Laude*, First in Major (Economics); Kugelman Honors *Techne* Scholar
+
+`2011`
+__MDiv, BTh; Theology__ (*conjoint*) 
+
+- International Miracle Institute
+- Honors: Licensed Member of the Clergy
+
+
+
+## Manuscripts
+
+
+### *Peer-reviewed*
+- "Individual-Level Risk Prediction of Return to Use During Opioid Use Disorder Treatment". Luo SX, Feaster DJ, Liu Y, Balise RR, Hu MC, Bouzoubaa B, __Odom GJ__, Brandt L, Pan Y, Hser Y, VanVeldhuisen P, Castillo F, Calderon AR, Rotrosen J, Saxon AJ, Weiss RD, Wall M, and Nunes EV. *JAMA Psychiatry*. 2023. <a href="https://doi.org/10.1001/jamapsychiatry.2023.3596" target="_blank">https://doi.org/10.1001/jamapsychiatry.2023.3596</a>
+- "Capturing drug use patterns at a glance: An $n$-ary word sufficient statistic for repeated univariate categorical values". __Odom GJ\*__, Brandt L\*, Castro C, Luo SX, Feaster DJ, Balise RR, the CTN-0094 Consortium Team. *Plos One*. 2023. <a href="https://doi.org/10.1371/journal.pone.0291248" target="_blank">https://doi.org/10.1371/journal.pone.0291248</a> (\* signifies co-first-authorship)
+- "Risk of Experiencing an Overdose Event for Patients Undergoing Treatment With Medication for Opioid Use Disorder". Brandt L, Hu MC, Liu Y, Castillo F, __Odom GJ__, Balise RR, Feaster DJ, Nunes EV, and Luo SX. *American Journal of Psychiatry*. 2023. <a href="https://doi.org/10.1176/appi.ajp.20220312" target="_blank">https://doi.org/10.1176/appi.ajp.20220312</a> 
+- "Specific polysubstance use patterns predict relapse among patients entering opioid use disorder treatment". Pan Y, Feaster DJ, __Odom GJ__, Brandt L, Hu MC, Weiss RD, Rotrosen J, Saxon AJ, Luo SX, and Balise RR. *Drug and Alcohol Dependence Reports*. 2022. <a href="https://doi.org/10.1016/j.dadr.2022.100128" target="_blank">https://doi.org/10.1016/j.dadr.2022.100128</a> 
+- "pathwayMultiomics: An R package for efficient integrative analysis of multi-omics datasets with matched or un-matched samples". __Odom GJ__, Colaprico A, Silva T, Chen X, and Wang L. *Frontiers in Genetics*. 2021. <a href="https://doi.org/10.3389/fgene.2021.783713" target="_blank">https://doi.org/10.3389/fgene.2021.783713</a> 
+- "pathwayPCA: an R/Bioconductor Package for Pathway Based Integrative Analysis of Multi‐Omics Data. __Odom GJ__, Ban Y, Colaprico A, Liu L<sup>&#8224;</sup>, Silva T, Sun X, Pico A, Zhang B, Wang L, and Chen X. *Proteomics*. 2020. <a href="https://doi.org/10.1002/pmic.201900409" target="_blank">https://doi.org/10.1002/pmic.201900409</a> 
+- "Moonlight: A tool to interpret pathways to discover cancer driver genes". Colaprico A, Olsen C, Cava C, Bailey M, __Odom GJ__, Terkelsen T, Silva T, Olsen A, Cantini L, Zinovyev A, Barillot E, Bertoli G, Castiglioni I, Noushmehr H, Chen X, Papaleo E, and Bontempi G. *Nature Communications*. 2020. <a href="https://doi.org/10.1038/s41467-019-13803-0" target="_blank">https://doi.org/10.1038/s41467-019-13803-0</a>
+- "An evaluation of supervised methods for identifying DMRs in Illumina methylation arrays." Saurav M\*, __Odom GJ\*__, Gao Z, Chen X, and Wang L. *Briefings in Bioinformatics*. 2018. <a href="http://dx.doi.org/10.1093/bib/bby085" target="_blank">http://dx.doi.org/10.1093/bib/bby085</a>. (\* signifies co-first-authorship)
+- "Multi-state multivariate statistical process control." __Odom GJ__, Newhart KB, Cath TY, and Hering AS. *Applied Stochastic Models in Business and Industry*. 2018. <a href="https://doi.org/10.1002/asmb.2333" target="_blank">https://doi.org/10.1002/asmb.2333</a>.
+- </br>
+
+
+### *With mentees* 
+- "No evidence of accelerated epigenetic aging among black heroin users: A case vs control analysis". Jones JD, Martinez S, Gonzalez I<sup>&#8224;</sup>, __Odom GJ__, Comer SD. *Addiction Neuroscience*. 2023. <a href="https://doi.org/10.1016/j.addicn.2023.100096" target="_blank">https://doi.org/10.1016/j.addicn.2023.100096</a>
+- "Evaluating the effect of acute diesel exhaust particle exposure on P-glycoprotein efflux transporter in the blood-brain barrier co-cultured with microglia". Aquino GV<sup>&#8224;</sup>, Dabi A, __Odom GJ__, Lavado R, Nunn K, Thomas K, Schackmuth B, Shariff N, Jarajapu M, Pluto M, Miller SR, Eller L, Pressley J, Patel RR, Black J, and Bruce ED. *Current Research in Toxicology*. 2023. <a href="https://doi.org/10.1016/j.crtox.2023.100107" target="_blank">https://doi.org/10.1016/j.crtox.2023.100107</a>
+- "The effect of changing the military's sexual assault laws on law enforcement investigative findings in the US Army." Carpenter ER, Gonzalez I<sup>&#8224;</sup>, Garcia SJ, and __Odom GJ__. *Law and Human Behavior*. 2022. <a href="https://doi.org/10.1037/lhb0000489" target="_blank">https://doi.org/10.1037/lhb0000489</a>
+- "Lessons Learned From Miami-Dade County's COVID-19 Epidemic: Making Surveillance Data Accessible for Policy Makers". Williams R<sup>&#8224;</sup>, Bursac Z, Trepka M, and __Odom GJ__. *Journal of Public Health Management and Practice*. 2021. <a href="https://doi.org/10.1097/PHH.0000000000001364" target="_blank">https://doi.org/10.1097/PHH.0000000000001364</a>
+- "Evaluating the endothelial-microglial interaction and comprehensive inflammatory marker profiles under acute exposure to ultrafine diesel exhaust particles *in vitro*". Aquino G<sup>&#8224;</sup>, Dabi A, __Odom GJ__, Zhang F, and Bruce E. *Toxicology*. 2021. <a href="https://doi.org/10.1016/j.tox.2021.152748" target="_blank">https://doi.org/10.1016/j.tox.2021.152748</a> 
+- "coMethDMR: Accurate identification of co-methylated and differentially-methylated regions in epigenome-wide association studies with continuous phenotypes". Gomez L<sup>&#8224;</sup>, __Odom GJ__, Liu L<sup>&#8224;</sup>, Gao Z, Chen X, and Wang L. *Nucleic Acids Research*. 2019. <a href="https://doi.org/10.1093/nar/gkz590" target="_blank">https://doi.org/10.1093/nar/gkz590</a>.
+- &#8224; <em>indicates academic mentee / advisee / graduate student</em>
+
+
+### *Submitted/In Revision*
+- "Empirically Contrasting Opioid Use Disorder Treatment 
+Outcome Definitions". Brandt L\*, __Odom GJ\*__, Hu MC, Castro C, and Balise RR. *Addiction*. (\* signifies co-first-authorship)
+
+
+
+## Software
+
+- __Odom GJ__ and Balise RR. 2023. *public.ctn0094extra: Helper Files for the CTN-0094 Relational Database*. R package version 1.0.0 version controlled with Git on GitHub, <a href="https://github.com/CTN-0094/public.ctn0094extra" target="_blank">https://github.com/CTN-0094/public.ctn0094extra</a>. 
+- Balise RR, __Odom GJ__, Calderon A. 2023. *public.ctn0094data: De-Identified Data from CTN-0094*. R/CRAN package version 1.0.6, <a href="https://CRAN.R-project.org/package=public.ctn0094data" target="_blank">https://CRAN.R-project.org/package=public.ctn0094data</a>.
+- Cañizares C<sup>&#8224;</sup>, Macgowan MJ, and __Odom GJ__. 2022. *tidyDisasters: Disaster Data Sets Including FEMA, EMDAT and GTD Information*. R/CRAN package version 0.1.1, <a href="https://CRAN.R-project.org/package=tidyDisasters" target="_blank">https://CRAN.R-project.org/package=tidyDisasters</a>.
+- __Odom GJ__, Brandt L, and Balise RR. 2022. *CTNote: Clinical Trials Network Outcomes, Treatments, and Endpoints*. R/CRAN package version 0.1.0, <a href="https://CRAN.R-project.org/package=CTNote" target="_blank">https://CRAN.R-project.org/package=CTNote</a>.
+- Rodriguez A<sup>&#8224;</sup>, Bursac Z, Trepka M, Williams R<sup>&#8224;</sup>, and __Odom GJ__. 2022. *COVID-19 Information for South Florida: an Interactive Shiny Dashboard*. <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">https://annyrodriguez.shinyapps.io/COVID19/</a>. 
+- Gomez L<sup>&#8224;</sup>, Veitzman F<sup>&#8224;</sup>, Silva T, Wang L, and __Odom GJ__. 2019. *coMethDMR: Apply DMR-detection methods to detect co-methylated regions of the genome*. R/Bioconductor package version 1.2.0, <a href="https://doi.org/10.18129/B9.bioc.coMethDMR" target="_blank">https://doi.org/10.18129/B9.bioc.coMethDMR</a>.
+- Balise R, Bouzoubaa L<sup>&#8224;</sup>, __Odom GJ__, and Castor N. 2021. *DOPE: a Drug Ontology Parsing Engine*. R/CRAN package version 2.1.0, <a href="https://CRAN.R-project.org/package=DOPE" target="_blank">https://CRAN.R-project.org/package=DOPE</a>.
+- Balise R and __Odom GJ__. 2020. *tidyREDCap: Helper functions for working with REDCap data*. R/CRAN package version 1.0.1, <a href="https://CRAN.R-project.org/package=tidyREDCap" target="_blank">https://CRAN.R-project.org/package=tidyREDCap</a>.
+- Balise R, __Odom GJ__, Grealis K, and Cardozo F. 2020. *rUM: R Templates from the University of Miami*. R/CRAN package version 1.0.1, <a href="https://CRAN.R-project.org/package=rUM" target="_blank">https://CRAN.R-project.org/package=rUM</a>.
+- Zhang L<sup>&#8224;</sup>, __Odom GJ__, Silva T, Gomez L<sup>&#8224;</sup>, and Wang L. 2020. *rnaEditr: Statistical analysis of RNA editing sites and hyper-editing regions*. R/Bioconductor package version 1.4.0, <a href="https://doi.org/10.18129/B9.bioc.rnaEditr" target="_blank">https://doi.org/10.18129/B9.bioc.rnaEditr</a>.
+- __Odom GJ__, Ban J, Liu L<sup>&#8224;</sup>, Wang L, and Chen S. 2019. *pathwayPCA: Integrative pathway analysis with modern PCA methodology and gene selection*. R/Bioconductor package version 1.10.0, <a href="https://doi.org/10.18129/B9.bioc.pathwayPCA" target="_blank">https://doi.org/10.18129/B9.bioc.pathwayPCA</a>.
+- __Odom GJ__, Barnard B, Johnson M, Kazor K, and Hering A. 2017. *mvMonitoring: Multi-state adaptive dynamic principal component analysis for multivariate process monitoring*. R/CRAN package version 0.1.0, <a href="https://CRAN.R-project.org/package=mvMonitoring" target="_blank">https://CRAN.R-project.org/package=mvMonitoring</a>.
+- </br>
+- &#8224; *indicates academic mentee / advisee / graduate student*
+
+
+
+## Patents
+
+- "A DYNAMIC MULTI-FACTOR REPRESENTATION OF HEALTH DATA." Kobetz E, Balise RR, Bailey Z, Dominguez S, Bouzoubaa L, Abranches G, Picado Roque O, Stoler J, Ewing C, and __Odom GJ__. 2021. Patent No. US20210383932A1. <https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020086905>
+
+<!-- Our Reference:  126683-003PV1. Your Reference: UMIP-193. -->
+
+
+
+## Teaching
+
+- *Introduction to Bayesian Inference*. Instructor of Record, Florida International University's Stempel College of Public Health. 2022-2023.
+- *Advanced Biostatistics III*. Co-instructor, Florida International University's Stempel College of Public Health. 2022.
+- *Introduction to Statistical Methods in R*. Instructor of Record, Florida International University's Stempel College of Public Health. 2021-2023.
+- *Advanced R Computing for Public Health Sciences*. Instructor of Record, Florida International University's Stempel College of Public Health. 2020-2023.
+- *Multivariate Methods in Health Sciences Research*. Instructor of Record, Florida International University's Stempel College of Public Health. 2020.
+- *Survey of Statistical Computing*. Instructor of Record, University of Miami's Miller School of Medicine. 2019.
+- *Topics in Biostatistical Research I & II*. Instructor of Record, University of Miami's Miller School of Medicine. 2018 – 2019.
+    + *PhD sections*: coordinated topics with graduate and external faculty; developed course syllabi; wrote and administered all projects and presentations; assigned all grades
+    + *MS sections*: coordinated topics with graduate faculty; developed course syllabi and course notes; wrote and administered all homework assignments and projects; assigned all grades
+- *Complex Data Analysis*. Lab Instructor, University of Miami's Miller School of Medicine. 2018-2019. Taught weekly software lab sessions to doctoral students in biostatistics and engineering
+- *Quantitative Methods for Business I & II*. Instructor of Record, Baylor University's Hankamer School of Business. 2014 – 2016. Developed course syllabi, course notes, and slides; wrote and administered all quizzes, projects, homework assignments, and exams; assigned all grades
+- *Introduction to Christian Scriptures*; *On the Sacraments*; *Topics in Leadership*. Instructor of Practice, Family Worship Center's Leadership Academy, Waco, TX. 2014 – 2017. Developed course curriculum and projects; reviewed capstone projects; mentored new deacons
+
+
+### Licenses
+
+- *Software Carpentry*. Licensed Instructor, 2018--present
+- *Data Carpentry*. Licensed Instructor, 2018--present
+
+
+### Doctoral Students
+
+- Ingrid Gonzalez, biostatistics. <https://stempel.fiu.edu/faculty-staff/profiles/gonzalez-ingrid.html>
+- Tanvir Hasan, biostatistics. <https://www.linkedin.com/in/kazitanvirhasan/>
+- Roy Williams, biostatistics. <https://rwilli56.wixsite.com/website>
+- Sheblie Burchfield, biostatistics. <https://www.linkedin.com/in/shelbie-burchfield-ms-mph-01404a9a/>
+
+
+
+## Presentations
+
+- "Evaluating the Safety and Efficacy of Clinical Decision Support Algorithms". Odom GJ and Brandt L. 2023. Johns Hopkins University's Innovations for Substance Use Disorder Pitch Competition, __Invited__ presentation. Baltimore, MD.
+- "A Gentle Introduction to Data Science Tools for Addiction Research: Use Cases With Examples". Odom GJ and Balise RR. 2023. College on Problems of Drug Dependence. Denver, CO.
+- "R for Reproducible Scientific Analysis: A 'Train the Trainers' Workshop Series". Odom GJ and Idris M. 2023. Research Centers in Minority Institutions Coordinating Center National Conference, __Invited__ presentation. Bethesda, MD.
+- "Improving outcome of medication treatment for OUD: Comparing and validating treatment endpoints". Odom GJ. 2022. American Academy of Addiction Psychiatry's Annual Meeting and Scientific Symposium. Naples, FL.
+- "Introduction to Quarto". Odom GJ. 2022. __Invited__ workshop for the ASA's Section of Statistical Programmers and Analysts. Virtual.
+- "Integrate Partially-Matched Multi-Omics Data with the MiniMax Statistic". Odom GJ, Colaprico A, Silva S, Chen S, and Wang L. 2022. Joint Statistical Meetings of the ASA. Washington, DC.
+- "Empirically Comparing Opioid Use Disorder Treatment Outcomes". Odom GJ, Brandt L, Balise RR. 2022. College on Problems of Drug Dependence. Minneapolis, MN.
+- "Detecting Regions of Concurrent and Differential Methylation with coMethDMR (R/Bioconductor)". Odom GJ, Martinez M, Gonzalez I, and Jones J. 2022. NIDA Genetics and Epigenetics Cross-Cutting Meeting. Virtual.
+- "Identifying Differentially Methylated Genomic Regions with coMethDMR". Odom GJ, Martinez M, Silva S, Gonzalez I, Veitzman F, Jones J. and Wang L. 2022. BioC2022. <https://bioc2022.bioconductor.org/abstracts/paper10/>. Seattle, WA.
+- "Using the MiniMax Statistic to Integrate Partially-Matched Multi-Omics Data". Odom GJ and Wang L. 2022. FIU's Biomolecular Sciences Institute lecture series. Miami, FL.
+- "Making Public Health Data Accesible to Local Policy Makers: Lessons Learned during the COVID-19 Pandemic". Odom GJ, Williams R, Rodriguez A, Bursac Z, and Trepka M. 2021. FIU-RCMI's Health Equity Symposium. Miami, FL
+- "Using the R tidyREDCap Package to Help Novices Explore Research Data". Balise RR and Odom GJ. 2021. Latin American & Brazilian REDCap Conference -- Virtual; __International Invited session__.
+- "COVID-19 Data Visualization in Practice". 2021. ASA's Joint Statistical Meetings -- Virtual.
+- "DOPE: A Package for the R Language to Process/Classify Drug Names". Balise RR, Odom GJ, Bouzoubaa L, Luo S, and Feaster D. 2021. College on Problems of Drug Dependence -- Virtual.
+- "Data Visualization and the R tidyREDCap Package". Balise RR, Espinosa V, and Odom GJ. 2020. REDCapCon -- Virtual; __International Invited session__.
+- "Integrative Pathway Analysis with pathwayPCA". 2019. BioC 2019 Software Workshop -- New York City, NY; __Young Researcher Travel Award__
+- "Moonlight: A Tool to Interpret Pathways to Discover Cancer-driver Genes". 2019. European Conference on Computational Biology -- Basel, Switzerland; *poster presented by Antonio Colaprico*
+- "Reproducible Data Science with R Packages". 2019. __Invited__ Lecture at the University of Tennessee College of Medicine -- Memphis, TN
+- "Conducting Reproducible Research using R Packages". 2019. __Invited__ Lecture at Florida International University -- Miami, FL
+- "R for Collaborative and Reproducible Research: Creating your First R Package". 2018. Biostatistics and Bioinformatics Shared Resources __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "R for Collaborative and Reproducible Research: Project Organization and Style". 2018. Biostatistics and Bioinformatics Shared Resources __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "R for Collaborative and Reproducible Research: Version Control with Git and GitHub". 2018. Biostatistics and Bioinformatics Shared Resources __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "Early Fault Detection of Activated Sludge Treatment Systems Utilizing Multivariate Statistical Analysis". 2018. WEFTEC Student Poster Sessions -- New Orleans, LA; *poster presented by Kathryn Newhart*
+- "Data Visualization with the `ggplot` and `ggmap` Packages". 2018. Quantitative Science Clinic __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "Data Analysis Workflow in R using the RStudio Integrated Development Environment". 2018. Quantitative Science Clinic __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "Data Manipulation and Transformation with the `dplyr` Package". 2018. Quantitative Science Clinic __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "Exploratory Data Analysis Walkthrough with the `tidyverse` Package Suite". 2018. Quantitative Science Clinic __Invited__ Lecture at the Sylvester Comprehensive Cancer Center -- Miami, FL
+- "Multi-State Multivariate Statistical Process Control". 2017. Quality and Productivity Research Conference __Invited__ Session -- Storrs, CT
+- "Iterated Linear Dimension Reduction with Application to Misclassification Reduction". 2016. Southern Regional Council on Statistics Student Poster Session -- Bentonville, AR; __Outstanding Student Poster Award__
+- "Two-Step LDR for Conditional Error Rate Reduction". 2016 Conference of Texas Statisticians Student Poster Session -- San Antonio, TX
+- "On University Campus Parking Shortages and Possible Solutions". 2011. Southern Regional Honors Council -- Little Rock, AR; Honors Thesis Defense
+
+
+
+## Honors
+
+`2023` Doctorate of Ministry, <u>honoris causa</u>. International Miracle Institute.
+
+`2022`
+Certificate of Merit, the City of Miami Office of the Mayor. For service to the city during the COVID-19 pandemic.
+
+`2021`
+FIU Presidential Service Award (*runner up*) for service to the university community via the Miami COVID Project (Mary Jo Trepka, Zoran Bursac, Gabriel J. Odom, and Roy Williams)
+
+`2020`
+__Sigma Xi Scientific Research Honor Society__, Florida International University
+
+`2019`
+Voluntary Assistant Professor, The University of Miami Department of Public Health Sciences
+
+`2019`
+Young Researcher Travel Award, Bioconductor's *BioC 2019* Conference
+
+`2018`
+__Lifetime Achievement Award__ for Community Service, *__The President of the United States__*
+
+`2017`
+__Phi Beta Kappa Society__, Baylor University
+
+`2016`
+R. L. Anderson Student Presentation Award, Southern Regional Council on Statistics
+
+`2016`
+Outstanding Alumni Award (nominated), University of West Florida
+
+`2016`
+Phi Kappa Chi Outstanding Instructor Award, Baylor University 
+
+`2015 - 2016`
+Department of Statistical Science Ambassador Award, Baylor University
+
+`2014 – 2016`
+Outstanding Graduate Instructor (finalist), Baylor University
+
+`2013 – 2017`
+Dean’s Fellowship, Baylor University
+
+`2014`
+__Golden Key International Honours Society__, Baylor University
+
+`2014`
+__Omicron Delta Kappa National Leadership Honors Society__, Baylor University
+
+`2013`
+The Lion Award for Workplace Excellence, North Central Texas College
+
+`2011`
+__Phi Kappa Phi Honors Society__, University of West Florida
+
+`2011`
+Pi Mu Epsilon Honors Society of Mathematics, University of West Florida
+
+`2011`
+Scholastic Excellence Award, University of West Florida
+
+`2010`
+Honors __Mentor of the Year__, University of West Florida
+
+`2008 – 2011`
+President’s List, University of West Florida
+
+`2008`
+Phi Theta Kappa Honors Society
+
+
+
+## Service
+
+- *Doctoral Progam Comprehensive Examination Committee*, FIU's Department of Biostatistics. 2023. Wrote and graded PhD comprehensive exams.
+- *Grant Reviewer*, NIDA. 2022. Served on the grant review panel for the "Accelerating the Pace of Drug Abuse Research Using Existing Data" study section.
+- *Doctoral Program Development Committee*, FIU's Department of Biostatistics. 2019 - 2021. Wrote the new degree application, syllabi for new courses, and chaired the hiring committee for new graduate faculty in the program.
+- *Lead Data Scientist*, The Miami COVID Project. 2020 - 2021. Cleaned and wrangled publich health data related to the COVID-19 epidemic in Miami-Dade, Broward, and Palm Beach counties in Florida; gave weekly presentations on the local state of the pandemic and trends to county and city elected officials, presented our findings to the general public via a weekly-updated website: <a href="https://rwilli5.github.io/MiamiCovidProject/" target="_blank">https://rwilli5.github.io/MiamiCovidProject/</a>
+- *Program Committee Chair Elect and Chair*, American Statistical Association's Section of Statistical Programmers and Analysts. 2020 - 2022. Assisted in the curation of the sections invited talks for the ASA's Joint Statistical Meetings in 2022
+- *PhD Program Development Committee*, Department of Biostatistics, Florida International University. 2019 - 2021. Developed new curriculum schedule for the PhD in biostatistics, co-wrote the application module presented to the State of Florida Board of Governors, and wrote, modified, and/or extensively edited all submitted syllabi
+- *Seminar Series Coordinator*, Division of Biostatistics, University of Miami. 2018 – 2019. Curated list of nationally-recognized speakers in biostatistics; invited these speakers to the Miller School of Medicine for grand rounds; coordinated and hosted guest faculty during their visit
+- *Assistant Clergy in Residence*, Words of Life Fellowship Church, Miami, FL. 2017 – 2019. Mentored parishioners in service and ministry roles; performed clerical visits
+- *Assistant Clergy in Residence*, Family Worship Center, Waco, TX. 2014 – 2017. Wrote sermons and homilies; mentored deacons in service and ministry roles; performed clerical visits; taught leadership academy candidates
+
+</br>
+
+*******************************************************************************
+
+</br>
+
+<!--
+### Footer
+Last updated: November 2023
+Last updated: September 2023
+Last updated: July 2023
+Last updated: March 2023
+Last updated: November 2022
+Last updated: February 2022
+Last updated: November 2021
+Last updated: February 2020
+-->
+
+*Updated: 2023-11-07*
