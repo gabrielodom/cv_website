@@ -20,7 +20,7 @@ I am an assistant professor of biostatistics at Florida International University
 
 
 ### Interests
-R/Bioconductor Package Development, Statistical Genetics/Genomics, Reproducibility in Data Science, Public Health Surveillance and Informatics, High-Dimensional Statistics, Computational Statistics, Matrix Theory, Bayesian Statistics, Spatial/Time Series, Ethics in Public Health and Medical Informatics
+R/Bioconductor Package Development, Endpoint Science, Statistical Genetics/Genomics, Reproducibility in Data Science, Public Health Surveillance and Informatics, High-Dimensional Statistics, Computational Statistics, Matrix Theory, Bayesian Statistics, Spatial/Time Series, Ethics in Public Health and Medical Informatics
 
 ### Application Areas
 Substance use disorders, public health data reporting, cancers, Alzheimer's and neuro-degenerative diseases and related neurotoxicology
@@ -33,7 +33,7 @@ __Assistant Professor__, Department of Biostatistics
 Stempel College of Public Health  
 Florida International University, Miami, FL   
 40 hours / week  
-Salary: \$102,514.05 / 9 months; \$136,685.40 / 12 months  
+Salary: \$106,102.04 / 9 months; \$141,469.04 / 12 months  
 
 </br>
 
@@ -54,18 +54,14 @@ Salary: \$24,000 / year
 
 
 
-## Research  
-**In Progress:**  
+## Research 
 
-- *Towards a framework for algorithmic bias and fairness in predicting treatment outcome for opioid use disorder* (NIH AIM-AHEAD 1OT2OD032581-02-267). Co-PI. 09/2023 - 09/2025. Contact PI: Laura Brandt, City College of New York.
-- *FIU RCMI: Research Capacity Core* (NIMHD 2U54MD012393-06 8588). Data Scientist. 08/2022 - 07/2027. PI: Zoran Bursac, Florida International University.
-- *Addressing community-level influences of HIV and COVID-19 disparities among people with HIV* (NIMHD 2U54MD012393-06 8587). Lead Data Scientist. 08/2022 - 07/2027. PI: Diana Sheehan, Florida International University.
-- *Individual Level Predictive Modeling of Opioid Use Disorder Treatment Response using Aggregate CTN Datasets* (NIDA UG1DA013035-17). Data scientist. 10/2019 - 06/2023. PI: Dan Feaster, University of Miami
-
-**Completed:**  
-
-- *A Software Tool to Standardize Outcomes and Measure Algorithmic Racial Bias in Opioid Clinical Trials* (NIMHD FIU-RCMI Pilot AWD000000009108). 07/2021 - 06/2022. PI: Gabriel Odom
-- *Building blood based DNA methylation signatures for AD that are reflective of CNS changes* (NIA 1RF1AG061127-01). Subcontract PI. 09/2019 - 07/2022. PI: Lily Wang, University of Miami
+- *Towards a framework for algorithmic bias and fairness in predicting treatment outcome for opioid use disorder* (NIH AIM-AHEAD 1OT2OD032581-02-267). Co-PI. Contact PI: Laura Brandt, City College of New York.
+- *Individual Level Predictive Modeling of Opioid Use Disorder Treatment Response using Aggregate CTN Datasets* (NIDA UG1DA013035-17). Data scientist. PI: Dan Feaster, University of Miami
+- *FIU RCMI: Research Capacity Core* (NIMHD 2U54MD012393-06 8588). Data Scientist. PI: Zoran Bursac, Florida International University.
+- *Addressing community-level influences of HIV and COVID-19 disparities among people with HIV* (NIMHD 2U54MD012393-06 8587). Lead Data Scientist. PI: Diana Sheehan, Florida International University.
+- *A Software Tool to Standardize Outcomes and Measure Algorithmic Racial Bias in Opioid Clinical Trials* (NIMHD FIU-RCMI Pilot AWD000000009108). PI: Gabriel Odom
+- *Building blood based DNA methylation signatures for AD that are reflective of CNS changes* (NIA 1RF1AG061127-01). Subcontract PI. PI: Lily Wang, University of Miami
 - *New Statistical Strategies for Comprehensive Analysis of Epigenomewide Methylation Data*: NIH-funded post-doc research. PI: Lily Wang, University of Miami
 - *iPGDAC, An Integrative Proteogenomic Data Analysis Center for CPTAC*: NIH-funded post-doc research. PI: Bing Zhang, Baylor College of Medicine; Site PI and Supervisor: Xi Steven Chen, University of Miami
 - *Self-Correcting Energy-Efficient Water Reclamation Systems for Tailored Water Reuse at Decentralized Facilities*: NSF-funded PhD research. PI: Tzahi Cath, Colorado School of Mines; Co-PI and Supervisor: Amanda S. Hering, Baylor University
@@ -122,6 +118,8 @@ __MDiv, BTh; Theology__ (*conjoint*)
 
 
 ### *Peer-reviewed*
+- "Data cleaning and harmonization of clinical trial data: Medication-assisted treatment for opioid use disorder". Balise RR, Hu MC, Calderon AR, __Odom GJ__, Brandt L, Luo SX, and Feaster DJ. *PLoS One*. 2024. <a href="https://doi.org/10.1371/journal.pone.0312695" target="_blank">https://doi.org/10.1371/journal.pone.0312695</a>
+- "Empirically contrasting urine drug screening‐based opioid use disorder treatment outcome definitions". Brandt L\*, __Odom GJ\*__, Hu MC, Castro C, Balise RR, and the CTN‐0094 Team. *Addiction*. 2024. <a href="https://doi.org/10.1111/add.16494" target="_blank">https://doi.org/10.1111/add.16494</a> (\* signifies co-first-authorship)
 - "Individual-Level Risk Prediction of Return to Use During Opioid Use Disorder Treatment". Luo SX, Feaster DJ, Liu Y, Balise RR, Hu MC, Bouzoubaa B, __Odom GJ__, Brandt L, Pan Y, Hser Y, VanVeldhuisen P, Castillo F, Calderon AR, Rotrosen J, Saxon AJ, Weiss RD, Wall M, and Nunes EV. *JAMA Psychiatry*. 2023. <a href="https://doi.org/10.1001/jamapsychiatry.2023.3596" target="_blank">https://doi.org/10.1001/jamapsychiatry.2023.3596</a>
 - "Capturing drug use patterns at a glance: An $n$-ary word sufficient statistic for repeated univariate categorical values". __Odom GJ\*__, Brandt L\*, Castro C, Luo SX, Feaster DJ, Balise RR, the CTN-0094 Consortium Team. *Plos One*. 2023. <a href="https://doi.org/10.1371/journal.pone.0291248" target="_blank">https://doi.org/10.1371/journal.pone.0291248</a> (\* signifies co-first-authorship)
 - "Risk of Experiencing an Overdose Event for Patients Undergoing Treatment With Medication for Opioid Use Disorder". Brandt L, Hu MC, Liu Y, Castillo F, __Odom GJ__, Balise RR, Feaster DJ, Nunes EV, and Luo SX. *American Journal of Psychiatry*. 2023. <a href="https://doi.org/10.1176/appi.ajp.20220312" target="_blank">https://doi.org/10.1176/appi.ajp.20220312</a> 
@@ -135,7 +133,9 @@ __MDiv, BTh; Theology__ (*conjoint*)
 
 
 ### *With mentees* 
-- "No evidence of accelerated epigenetic aging among black heroin users: A case vs control analysis". Jones JD, Martinez S, Gonzalez I<sup>&#8224;</sup>, __Odom GJ__, Comer SD. *Addiction Neuroscience*. 2023. <a href="https://doi.org/10.1016/j.addicn.2023.100096" target="_blank">https://doi.org/10.1016/j.addicn.2023.100096</a>
+- "Using tree-based models to identify factors contributing to trait negative affect in adults". Cañizares C<sup>&#8224;</sup>, Gómez-Maquet Y, Ferro E, Torres CA, Agudelo DM, and __Odom GJ__. *BMC Psychology*. 2025. <a href="https://doi.org/10.1186/s40359-024-02245-z" target="_blank">https://doi.org/10.1186/s40359-024-02245-z</a> 
+- "Mangrove Forests of Biscayne Bay, FL, USA may Act as Sinks for Plastic Debris". Paduani M<sup>&#8224;</sup>, Ross M, and __Odom GJ__. *Wetlands*. 2024. <a href="https://doi.org/10.1007/s13157-024-01785-9" target="_blank">https://doi.org/10.1007/s13157-024-01785-9</a>
+- "No evidence of accelerated epigenetic aging among black heroin users: A case vs control analysis". Jones JD, Martinez S, Gonzalez I<sup>&#8224;</sup>, __Odom GJ__, and Comer SD. *Addiction Neuroscience*. 2023. <a href="https://doi.org/10.1016/j.addicn.2023.100096" target="_blank">https://doi.org/10.1016/j.addicn.2023.100096</a>
 - "Evaluating the effect of acute diesel exhaust particle exposure on P-glycoprotein efflux transporter in the blood-brain barrier co-cultured with microglia". Aquino GV<sup>&#8224;</sup>, Dabi A, __Odom GJ__, Lavado R, Nunn K, Thomas K, Schackmuth B, Shariff N, Jarajapu M, Pluto M, Miller SR, Eller L, Pressley J, Patel RR, Black J, and Bruce ED. *Current Research in Toxicology*. 2023. <a href="https://doi.org/10.1016/j.crtox.2023.100107" target="_blank">https://doi.org/10.1016/j.crtox.2023.100107</a>
 - "The effect of changing the military's sexual assault laws on law enforcement investigative findings in the US Army." Carpenter ER, Gonzalez I<sup>&#8224;</sup>, Garcia SJ, and __Odom GJ__. *Law and Human Behavior*. 2022. <a href="https://doi.org/10.1037/lhb0000489" target="_blank">https://doi.org/10.1037/lhb0000489</a>
 - "Lessons Learned From Miami-Dade County's COVID-19 Epidemic: Making Surveillance Data Accessible for Policy Makers". Williams R<sup>&#8224;</sup>, Bursac Z, Trepka M, and __Odom GJ__. *Journal of Public Health Management and Practice*. 2021. <a href="https://doi.org/10.1097/PHH.0000000000001364" target="_blank">https://doi.org/10.1097/PHH.0000000000001364</a>
@@ -145,8 +145,10 @@ __MDiv, BTh; Theology__ (*conjoint*)
 
 
 ### *Submitted/In Revision*
-- "Empirically Contrasting Opioid Use Disorder Treatment 
-Outcome Definitions". Brandt L\*, __Odom GJ\*__, Hu MC, Castro C, and Balise RR. *Addiction*. (\* signifies co-first-authorship)
+- "Endpoints as Algorithms: A Case Study of Bias in Opioid Use Disorder Treatment Outcomes". Castro C, __Odom GJ__, Au L, and Brandt L. *Journal of Medical Ethics*.
+- "Engaging an Advisory Board in Discussions about the Ethical Relevance of Algorithmic Bias and Fairness". Au L, Castro C, __Odom GJ__, and Brandt L. *npj Digital Medicine*.
+- "From Clinical Trials to Real-World Impact: Introducing a Computational Framework to Detect Endpoint Bias in Opioid Use Disorder Research". __Odom GJ\*__, Brandt L\*, Marker A, Giorgi S, Jainarain G, Schwartz HA, Au L, Castro C, and the ENDPOINT Consortium. *Drug and Alcohol Review*. (\* signifies co-first-authorship)
+- "The Sensitivity of Bayesian Kernel Machine Regression (BKMR) to Data Distribution: A Comprehensive Simulation Analysis". Hasan KT<sup>&#8224;</sup>, __Odom GJ__, Bursac Z, and Ibrahimou B. *Journal of Statistical Computation and Simulation*.
 
 
 
@@ -179,6 +181,8 @@ Outcome Definitions". Brandt L\*, __Odom GJ\*__, Hu MC, Castro C, and Balise RR.
 
 ## Teaching
 
+- *Introduction to Data Science for Health Disparities*. Co-instructor. Morehouse School of Medicine. 2025.
+- *Advanced Biostatistics III*. Instructor of Record, Florida International University's Stempel College of Public Health. 2024.
 - *Introduction to Bayesian Inference*. Instructor of Record, Florida International University's Stempel College of Public Health. 2022-2023.
 - *Advanced Biostatistics III*. Co-instructor, Florida International University's Stempel College of Public Health. 2022.
 - *Introduction to Statistical Methods in R*. Instructor of Record, Florida International University's Stempel College of Public Health. 2021-2023.
@@ -318,7 +322,8 @@ Phi Theta Kappa Honors Society
 
 ## Service
 
-- *Doctoral Progam Comprehensive Examination Committee*, FIU's Department of Biostatistics. 2023. Wrote and graded PhD comprehensive exams.
+- *Doctoral Progam Comprehensive Examination Committee*, FIU's Department of Biostatistics. 2023-2025. Wrote and graded PhD comprehensive exams.
+- *Doctoral Progam Admittance Committee*, FIU's Department of Biostatistics. 2021-2025. Reviewed applicant vitae, interviewed candidates, and nominated top candidates for university graduate scholarships.
 - *Grant Reviewer*, NIDA. 2022. Served on the grant review panel for the "Accelerating the Pace of Drug Abuse Research Using Existing Data" study section.
 - *Doctoral Program Development Committee*, FIU's Department of Biostatistics. 2019 - 2021. Wrote the new degree application, syllabi for new courses, and chaired the hiring committee for new graduate faculty in the program.
 - *Lead Data Scientist*, The Miami COVID Project. 2020 - 2021. Cleaned and wrangled publich health data related to the COVID-19 epidemic in Miami-Dade, Broward, and Palm Beach counties in Florida; gave weekly presentations on the local state of the pandemic and trends to county and city elected officials, presented our findings to the general public via a weekly-updated website: <a href="https://rwilli5.github.io/MiamiCovidProject/" target="_blank">https://rwilli5.github.io/MiamiCovidProject/</a>
@@ -346,4 +351,4 @@ Last updated: November 2021
 Last updated: February 2020
 -->
 
-*Updated: 2023-11-07*
+*Updated: 2025-03-03*

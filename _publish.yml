@@ -5,4 +5,4 @@
 - source: odom_cv_20230712.qmd
   quarto-pub:
     - id: 0dd5fc96-3dec-42db-9809-c831774f0b16
-      url: 'https://quartopub.com/sites/gabriel/cv'
+      url: 'https://gabriel.quarto.pub/cv'
